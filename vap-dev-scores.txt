@@ -1,6 +1,7 @@
 /home/matteo/vap-inference/turnbench/predictions.json — per conversation        
 ┏━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━┓
 ┃       ┃            ┃        ┃     EOT lat ┃            ┃        ┃    INT lat ┃
+┃ convo ┃ EOT recall ┃ EOT fp ┃   p10/50/90 ┃ INT recall ┃ INT fp ┃  p10/50/9  ┃
 ┃ convolution ┃ EOT recall ┃ EOT fp ┃   p10/50/90 ┃ INT recall ┃ INT fp ┃  p10/50/90 ┃
 ┡━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━┩
 │    20 │      0.921 │  0.116 │ 181/643/16… │          — │  0.372 │          — │
